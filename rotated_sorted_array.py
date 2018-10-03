@@ -1,3 +1,5 @@
+#Find an element in a rotated sorted array
+
 def find_pivot(l):
   s = 0
   e = len(l) - 1
